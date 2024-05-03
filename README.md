@@ -4,7 +4,7 @@ Use this repo as a template repository for data science projects using the Data 
 
 With that in mind, if there is something that you think we're missing or should change, open an issue and we'll talk!
 
-## Get started.
+## Get started. Now!
 
 The only manual step required is that you have to manually create the labels. The label names, descriptions, and color codes can be found in the [.github/labels.yaml](/.github/labels.yaml) file. For more information on creating labels, review the GitHub docs [here](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label).
 
